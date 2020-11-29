@@ -8,5 +8,9 @@ public class MyTest {
         System.out.println("git--test");
         System.out.println("git--test");
         System.out.println("git--test");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
     }
 }
